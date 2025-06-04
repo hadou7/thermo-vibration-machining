@@ -1,6 +1,3 @@
-# thermo-vibration-machining
-Simulation and experimental study on machining performance with thermal and vibration enhancements.
-
 # Thermally Enhanced Machining
 
 Final-year mechanical engineering project focused on improving cutting performance on aerospace alloys using laser and vibration enhancements.
