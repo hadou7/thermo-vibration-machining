@@ -2,7 +2,7 @@
 
 **Final Year MEng Project – University of Bath (2025)**  
 *Shortlisted for the Geoff Herrington Innovation Award*  
-📎 [Project Report (PDF)](link-to-report) | 🖼️ [Poster Presentation](link-to-poster)
+📎 [Project Report (PDF)](link-to-report) | 🖼️ [Poster Presentation](FYP_Poster.pdf)
 
 This project models, simulates, and experimentally validates **hybrid machining** techniques combining laser/plasma heating and ultrasonic vibration to enhance performance when cutting aerospace alloys like **Ti-6Al-4V** and **Inconel 718**.
 
